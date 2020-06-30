@@ -21,6 +21,11 @@ If you enjoy Lumo, consider backing or sponsoring the project on
   <img alt="Open Collective" width="140px" src="https://opencollective.com/public/images/opencollectivelogo.svg">
 </a>
 
+## JSTransformationBenchmarks
+
+This is the version of lumo for use in our transformation benchmarking.
+Please use branch `benchmark-stable` for these purposes.
+
 ## Build status
 
 | Platform  | Status   |
